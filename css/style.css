@@ -1,0 +1,15 @@
+.contener{
+    border: 2px solid red;
+    display: flex;
+    /* justify-content: space-around; */
+    /* align-items: center; */
+    /* flex-direction: row-reverse; */
+    flex-wrap: wrap;
+    height: 250px;
+}
+.box{
+    border: 2px dotted green;
+    width: 150px;
+    height: 150px;
+
+}
